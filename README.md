@@ -132,4 +132,6 @@ Final-Year IT Student
 
 The complete implementation is maintained in a private repository.
 
+A video is available in docs folder showcasing project features.
+
 This repository is intended for project demonstration and portfolio purposes. Additional details can be shared for academic, recruitment, or professional review upon request.
